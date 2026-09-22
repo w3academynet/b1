@@ -1,0 +1,1 @@
+<button type="submit" style="padding: 10px 20px;">@yield('button-text')</button>
